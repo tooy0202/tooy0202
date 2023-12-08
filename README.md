@@ -28,5 +28,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tooy0202&show_icons=true&locale=en" alt="tooy0202" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tooy0202&" alt="tooy0202" /></p>
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api username=tooy0202 &theme=radical)
 
