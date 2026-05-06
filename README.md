@@ -16,7 +16,7 @@
 
 ---
 
-# Hi there 👋 < devs />
+# Hi there 👋
 
 My name is **Athit Suntaloldom**.  
 I am a Computer Engineering who is passionate about AI, Robotics, Embedded Systems and Fullstack Development.
