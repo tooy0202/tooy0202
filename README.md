@@ -1,32 +1,97 @@
+<h1 align="center">Athit Suntaloldom</h1>
 
-<h1 align="center">Hi 👋, I'm Athit Suntaloldom</h1>
-<h3 align="center">I am a student who wants to study programming and coding languages.And here is a portfolio of all my past studies.</h3>
-<img align="right" alt="Coding" width="400" src="https://photos.google.com/photo/AF1QipMDFkaKOtGUxTIs4aLylEK6Sg9hkHSPWAQCSSMv">
-
-- 🔭 I studied high school at **Chinorotwittayalai school**
-
-- 🌱 I’m currently learning **computer engineering**
-
-- 👯 I studied Diploma at **Lanna Polytechnic ChiangMai**
-
-- 🤝 I study bachelor degree at **Rajamangala University of Technology Lanna**
-
-- 👨‍💻 All of my projects are available at [https://youtu.be/ppICig-uoWY](https://youtu.be/ppICig-uoWY)
-
-- 💬 Ask me about **My nickname's tooy**
-
-- 📫 How to reach me **tooy0303@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.facebook.com/profile.php?id=100007250822032" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tooy sochi" height="30" width="40" /></a>
-<a href="https://instagram.com/athit_soso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="athit_soso" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Engineering;AI+%26+Robotics+Developer;Flutter+%7C+ROS2+%7C+YOLOv8;Jetson+Nano+%7C+Firebase+%7C+Next.js" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tooy0202&show_icons=true&locale=en" alt="tooy0202" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tooy0202&" alt="tooy0202" /></p>
+<div align="center">
 
+[![YouTube](https://img.shields.io/badge/YOUTUBE-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/ppICig-uoWY)
+[![Facebook](https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100007250822032)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/athit_soso)
 
+</div>
+
+---
+
+# Hi there 👋 < devs />
+
+My name is **Athit Suntaloldom**.  
+I am a Computer Engineering who is passionate about AI, Robotics, Embedded Systems and Fullstack Development.
+
+Currently, I am developing:
+- 🤖 AI Fall Detection System
+- 🚂 Smart Mini Train Safety System
+- 📱 Flutter + Firebase Applications
+- 🧠 ROS2 + LiDAR + YOLOv8 Projects
+
+I enjoy building real-world projects and continuously learning new technologies.
+
+---
+
+# 🎓 Education
+
+- 🏫 High School — Chinorotwittayalai School
+- 🏢 Diploma — Lanna Polytechnic Chiang Mai
+- 🎓 Bachelor Degree — Rajamangala University of Technology Lanna
+
+---
+
+# ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,dart,flutter,firebase,nodejs,nextjs,react,mysql,linux,git,github,vscode,opencv,pytorch,tensorflow,arduino" />
+
+</div>
+
+---
+
+# 📊 Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tooy0202&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tooy0202&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Most Used Languages
+
+<div align="center">
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tooy0202&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🚀 Current Interests
+
+- Artificial Intelligence
+- ROS2 Development
+- Embedded Systems
+- Autonomous Vehicles
+- Robotics Programming
+- Mobile App Development
+- Computer Vision
+
+---
+
+# 📫 Contact Me
+
+- 📧 Email: **tooy0303@gmail.com**
+- 👨‍💻 Nickname: **Tooy**
+
+---
+
+<div align="center">
+
+### With ❤️ from Thailand
+
+</div>
