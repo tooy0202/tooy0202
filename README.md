@@ -1,5 +1,3 @@
-<h1 align="center">Athit Suntaloldom</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Engineering;AI+%26+Robotics+Developer;Flutter+%7C+ROS2+%7C+YOLOv8;Jetson+Nano+%7C+Firebase+%7C+Next.js" />
 </p>
