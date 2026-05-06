@@ -53,7 +53,7 @@ I enjoy building real-world projects and continuously learning new technologies.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tooy0202&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tooy0202&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tooy0202&theme=tokyonight&hide_border=true"/>
 
@@ -65,7 +65,7 @@ I enjoy building real-world projects and continuously learning new technologies.
 
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tooy0202&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tooy0202&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
